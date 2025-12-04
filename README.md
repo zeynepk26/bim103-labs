@@ -1,7 +1,3 @@
-# bim103-labs
-c programming lab solutions for BIM103 course.
-
-
 # bim103 computer programming i - lab solutions
 
 ## 🏫 about the project
