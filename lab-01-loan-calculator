@@ -1,9 +1,0 @@
-# lab 01: loan calculator
-
-## problem description
-this lab consists of two parts focused on floating-point arithmetic and type casting.
-
-### loan calculator
-a program that computes monthly and total loan payments based on the user's input (interest rate, years, loan amount).
-* **formula:** uses compound interest formulas.
-* **key Concept:** 'math.h' library and 'pow()' function.
